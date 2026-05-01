@@ -1,0 +1,683 @@
+{
+  "participants": [
+    {
+      "name": "bella",
+      "segments": [
+        {
+          "segment": 0,
+          "pre_clap": 4.8,
+          "clap_event": 5.2,
+          "post_clap": 5.8,
+          "alignment_integral(seconds)": 214.2,
+          "alignment_integral(minutes:seconds)": "3:34"
+        },
+        {
+          "segment": 1,
+          "pre_clap": 4.725,
+          "clap_event": 4.975,
+          "post_clap": 5.55,
+          "alignment_integral(seconds)": 946.275,
+          "alignment_integral(minutes:seconds)": "15:46"
+        },
+        {
+          "segment": 2,
+          "pre_clap": 10.9,
+          "clap_event": 11.225,
+          "post_clap": 11.875,
+          "alignment_integral(seconds)": 982.1,
+          "alignment_integral(minutes:seconds)": "16:22"
+        },
+        {
+          "segment": 3,
+          "pre_clap": 12.725,
+          "clap_event": 13.95,
+          "post_clap": 14.8,
+          "alignment_integral(seconds)": 1853.275,
+          "alignment_integral(minutes:seconds)": "30:53"
+        }
+      ]
+    },
+    {
+      "name": "bernice",
+      "segments": [
+        {
+          "segment": 0,
+          "pre_clap": 2.475,
+          "clap_event": 3.05,
+          "post_clap": 3.475,
+          "alignment_integral(seconds)": 192.525,
+          "alignment_integral(minutes:seconds)": "3:12"
+        },
+        {
+          "segment": 1,
+          "pre_clap": 2.375,
+          "clap_event": 2.7,
+          "post_clap": 3.225,
+          "alignment_integral(seconds)": 2001.625,
+          "alignment_integral(minutes:seconds)": "33:21"
+        },
+        {
+          "segment": 2,
+          "pre_clap": 4.825,
+          "clap_event": 5.7,
+          "post_clap": 6.15,
+          "alignment_integral(seconds)": 933.175,
+          "alignment_integral(minutes:seconds)": "15:33"
+        },
+        {
+          "segment": 3,
+          "pre_clap": 10.5,
+          "clap_event": 10.9,
+          "post_clap": 11.2,
+          "alignment_integral(seconds)": 275.5,
+          "alignment_integral(minutes:seconds)": "4:35"
+        }
+      ]
+    },
+    {
+      "name": "bill",
+      "segments": [
+        {
+          "segment": 0,
+          "pre_clap": 8.375,
+          "clap_event": 8.525,
+          "post_clap": 8.85,
+          "alignment_integral(seconds)": 3688.625,
+          "alignment_integral(minutes:seconds)": "61:36"
+        },
+        {
+          "segment": 1,
+          "pre_clap": 4.85,
+          "clap_event": 4.95,
+          "post_clap": 5.45,
+          "alignment_integral(seconds)": 5456.15,
+          "alignment_integral(minutes:seconds)": "90:56"
+        }
+      ]
+    },
+    {
+      "name": "brett",
+      "segments": [
+        {
+          "segment": 0,
+          "pre_clap": 3.4,
+          "clap_event": 3.775,
+          "post_clap": 4.375,
+          "alignment_integral(seconds)": 310.6,
+          "alignment_integral(minutes:seconds)": "5:10"
+        },
+        {
+          "segment": 1,
+          "pre_clap": 6.8,
+          "clap_event": 7.125,
+          "post_clap": 7.425,
+          "alignment_integral(seconds)": 2961.2,
+          "alignment_integral(minutes:seconds)": "49:21"
+        },
+        {
+          "segment": 2,
+          "pre_clap": 4.875,
+          "clap_event": 5.05,
+          "post_clap": 5.575,
+          "alignment_integral(seconds)": 1567.125,
+          "alignment_integral(minutes:seconds)": "26:7"
+        }
+      ]
+    },
+    {
+      "name": "cody",
+      "segments": [
+        {
+          "segment": 0,
+          "pre_clap": 7.775,
+          "clap_event": 8.1,
+          "post_clap": 8.625,
+          "alignment_integral(seconds)": 227.225,
+          "alignment_integral(minutes:seconds)": "3:47"
+        },
+        {
+          "segment": 1,
+          "pre_clap": 3.475,
+          "clap_event": 3.85,
+          "post_clap": 4.55,
+          "alignment_integral(seconds)": 2548.525,
+          "alignment_integral(minutes:seconds)": "42:28"
+        },
+        {
+          "segment": 2,
+          "pre_clap": 3.825,
+          "clap_event": 4.125,
+          "post_clap": 4.75,
+          "alignment_integral(seconds)": 1188.175,
+          "alignment_integral(minutes:seconds)": "19:48"
+        }
+      ]
+    },
+    {
+      "name": "cynthia",
+      "segments": [
+        {
+          "segment": 0,
+          "pre_clap": 5.975,
+          "clap_event": 6.45,
+          "post_clap": 7.4,
+          "alignment_integral(seconds)": 162.025,
+          "alignment_integral(minutes:seconds)": "2:42"
+        },
+        {
+          "segment": 1,
+          "pre_clap": 2.5,
+          "clap_event": 2.975,
+          "post_clap": 3.925,
+          "alignment_integral(seconds)": 2605.5,
+          "alignment_integral(minutes:seconds)": "43:25"
+        },
+        {
+          "segment": 2,
+          "pre_clap": 8.225,
+          "clap_event": 8.6,
+          "post_clap": 9.625,
+          "alignment_integral(seconds)": 513.775,
+          "alignment_integral(minutes:seconds)": "8:33"
+        },
+        {
+          "segment": 5,
+          "pre_clap": 8.35,
+          "clap_event": 8.9,
+          "post_clap": 9.6,
+          "alignment_integral(seconds)": 1082.65,
+          "alignment_integral(minutes:seconds)": "18:2"
+        }
+      ]
+    },
+    {
+      "name": "diane",
+      "segments": [
+        {
+          "segment": 0,
+          "pre_clap": 42.55,
+          "clap_event": 42.7,
+          "post_clap": 42.875,
+          "alignment_integral(seconds)": 210.45,
+          "alignment_integral(minutes:seconds)": "3:30"
+        },
+        {
+          "segment": 1,
+          "pre_clap": 4.175,
+          "clap_event": 4.375,
+          "post_clap": 4.7,
+          "alignment_integral(seconds)": 259.825,
+          "alignment_integral(minutes:seconds)": "4:19"
+        },
+        {
+          "segment": 2,
+          "pre_clap": 6.6,
+          "clap_event": 6.725,
+          "post_clap": 7.125,
+          "alignment_integral(seconds)": 257.4,
+          "alignment_integral(minutes:seconds)": "4:17"
+        },
+        {
+          "segment": 3,
+          "pre_clap": 46.775,
+          "clap_event": 47.05,
+          "post_clap": 47.475,
+          "alignment_integral(seconds)": 405.225,
+          "alignment_integral(minutes:seconds)": "6:45"
+        },
+        {
+          "segment": 4,
+          "pre_clap": 26.875,
+          "clap_event": 27.175,
+          "post_clap": 27.55,
+          "alignment_integral(seconds)": 218.125,
+          "alignment_integral(minutes:seconds)": "3:38"
+        },
+        {
+          "segment": 6,
+          "pre_clap": 11.8,
+          "clap_event": 12.025,
+          "post_clap": 12.25,
+          "alignment_integral(seconds)": 218.2,
+          "alignment_integral(minutes:seconds)": "3:38"
+        },
+        {
+          "segment": 8,
+          "pre_clap": 4.775,
+          "clap_event": 4.975,
+          "post_clap": 5.325,
+          "alignment_integral(seconds)": 415.225,
+          "alignment_integral(minutes:seconds)": "6:55"
+        }
+      ]
+    },
+    {
+      "name": "echo",
+      "segments": [
+        {
+          "segment": 0,
+          "pre_clap": 3.875,
+          "clap_event": 4.275,
+          "post_clap": 4.925,
+          "alignment_integral(seconds)": 107.125,
+          "alignment_integral(minutes:seconds)": "1:47"
+        },
+        {
+          "segment": 1,
+          "pre_clap": 2.7,
+          "clap_event": 3.175,
+          "post_clap": 3.7,
+          "alignment_integral(seconds)": 152.3,
+          "alignment_integral(minutes:seconds)": "2:32"
+        },
+        {
+          "segment": 2,
+          "pre_clap": 3.4,
+          "clap_event": 3.6,
+          "post_clap": 3.95,
+          "alignment_integral(seconds)": 308.6,
+          "alignment_integral(minutes:seconds)": "5:8"
+        },
+        {
+          "segment": 3,
+          "pre_clap": 6.8,
+          "clap_event": 6.975,
+          "post_clap": 7.275,
+          "alignment_integral(seconds)": 345.2,
+          "alignment_integral(minutes:seconds)": "5:45"
+        },
+        {
+          "segment": 4,
+          "pre_clap": 14.45,
+          "clap_event": 14.7,
+          "post_clap": 15.25,
+          "alignment_integral(seconds)": 1559.55,
+          "alignment_integral(minutes:seconds)": "25:59"
+        }
+      ]
+    },
+    {
+      "name": "emma",
+      "segments": [
+        {
+          "segment": 0,
+          "pre_clap": 5.075,
+          "clap_event": 5.3,
+          "post_clap": 5.55,
+          "alignment_integral(seconds)": 1981.925,
+          "alignment_integral(minutes:seconds)": "33:1"
+        },
+        {
+          "segment": 1,
+          "pre_clap": 6.175,
+          "clap_event": 6.45,
+          "post_clap": 6.875,
+          "alignment_integral(seconds)": 853.825,
+          "alignment_integral(minutes:seconds)": "14:13"
+        },
+        {
+          "segment": 2,
+          "pre_clap": 1.975,
+          "clap_event": 2.625,
+          "post_clap": 3.25,
+          "alignment_integral(seconds)": 243.025,
+          "alignment_integral(minutes:seconds)": "4:3"
+        }
+      ]
+    },
+    {
+      "name": "jamia",
+      "segments": [
+        {
+          "segment": 0,
+          "pre_clap": 6.475,
+          "clap_event": 6.725,
+          "post_clap": 6.975,
+          "alignment_integral(seconds)": 1060.525,
+          "alignment_integral(minutes:seconds)": "17:40"
+        },
+        {
+          "segment": 1,
+          "pre_clap": 6.25,
+          "clap_event": 6.425,
+          "post_clap": 6.625,
+          "alignment_integral(seconds)": 2114.75,
+          "alignment_integral(minutes:seconds)": "35:14"
+        }
+      ]
+    },
+    {
+      "name": "jithvan",
+      "segments": [
+        {
+          "segment": 0,
+          "pre_clap": 18.3,
+          "clap_event": 18.8,
+          "post_clap": 19.3,
+          "alignment_integral(seconds)": 102.7,
+          "alignment_integral(minutes:seconds)": "1:42"
+        },
+        {
+          "segment": 2,
+          "pre_clap": 8.725,
+          "clap_event": 9.2,
+          "post_clap": 9.5,
+          "alignment_integral(seconds)": 385.275,
+          "alignment_integral(minutes:seconds)": "6:25"
+        },
+        {
+          "segment": 3,
+          "pre_clap": 10.3,
+          "clap_event": 10.55,
+          "post_clap": 10.95,
+          "alignment_integral(seconds)": 1619.7,
+          "alignment_integral(minutes:seconds)": "26:59"
+        },
+        {
+          "segment": 4,
+          "pre_clap": 32.75,
+          "clap_event": 33.125,
+          "post_clap": 33.275,
+          "alignment_integral(seconds)": 1345.25,
+          "alignment_integral(minutes:seconds)": "22:57"
+        },
+        {
+          "segment": 5,
+          "pre_clap": 4.775,
+          "clap_event": 5.1,
+          "post_clap": 5.45,
+          "alignment_integral(seconds)": 6.225,
+          "alignment_integral(minutes:seconds)": "1:13"
+        },
+        {
+          "segment": 6,
+          "pre_clap": 1.85,
+          "clap_event": 2.75,
+          "post_clap": 3.0,
+          "alignment_integral(seconds)": 552.15,
+          "alignment_integral(minutes:seconds)": "9:12"
+        }
+      ]
+    },
+    {
+      "name": "jonathan",
+      "segments": [
+        {
+          "segment": 0,
+          "pre_clap": 23.925,
+          "clap_event": 24.225,
+          "post_clap": 24.55,
+          "alignment_integral(seconds)": 52.075,
+          "alignment_integral(minutes:seconds)": "0:52"
+        },
+        {
+          "segment": 1,
+          "pre_clap": 6.575,
+          "clap_event": 7.25,
+          "post_clap": 7.95,
+          "alignment_integral(seconds)": 126.425,
+          "alignment_integral(minutes:seconds)": "2:6"
+        },
+        {
+          "segment": 2,
+          "pre_clap": 21.675,
+          "clap_event": 22.975,
+          "post_clap": 23.35,
+          "alignment_integral(seconds)": 2722.325,
+          "alignment_integral(minutes:seconds)": "45:22"
+        },
+        {
+          "segment": 3,
+          "pre_clap": 0.0,
+          "clap_event": 0.0,
+          "post_clap": 0.0,
+          "alignment_integral(seconds)": 10.0,
+          "alignment_integral(minutes:seconds)": "0:10"
+        },
+        {
+          "segment": 4,
+          "pre_clap": 4.35,
+          "clap_event": 4.6,
+          "post_clap": 4.9,
+          "alignment_integral(seconds)": 957.65,
+          "alignment_integral(minutes:seconds)": "15:57"
+        }
+      ]
+    },
+    {
+      "name": "krista",
+      "segments": [
+        {
+          "segment": 0,
+          "pre_clap": 13.175,
+          "clap_event": 13.3,
+          "post_clap": 13.5,
+          "alignment_integral(seconds)": 1692.825,
+          "alignment_integral(minutes:seconds)": "28:12"
+        },
+        {
+          "segment": 1,
+          "pre_clap": 3.175,
+          "clap_event": 3.3,
+          "post_clap": 3.55,
+          "alignment_integral(seconds)": 809.825,
+          "alignment_integral(minutes:seconds)": "13:29"
+        }
+      ]
+    },
+    {
+      "name": "lindsay",
+      "segments": [
+        {
+          "segment": 0,
+          "pre_clap": 16.375,
+          "clap_event": 16.775,
+          "post_clap": 17.775,
+          "alignment_integral(seconds)": 53.625,
+          "alignment_integral(minutes:seconds)": "0:53"
+        },
+        {
+          "segment": 1,
+          "pre_clap": 7.025,
+          "clap_event": 7.675,
+          "post_clap": 8.325,
+          "alignment_integral(seconds)": 76.975,
+          "alignment_integral(minutes:seconds)": "1:16"
+        },
+        {
+          "segment": 2,
+          "pre_clap": 9.6,
+          "clap_event": 9.85,
+          "post_clap": 9.9,
+          "alignment_integral(seconds)": 155.4,
+          "alignment_integral(minutes:seconds)": "2:35"
+        },
+        {
+          "segment": 3,
+          "pre_clap": 4.75,
+          "clap_event": 4.975,
+          "post_clap": 5.35,
+          "alignment_integral(seconds)": 91.25,
+          "alignment_integral(minutes:seconds)": "1:31"
+        },
+        {
+          "segment": 4,
+          "pre_clap": 0.0,
+          "clap_event": 0.0,
+          "post_clap": 1.0,
+          "alignment_integral(seconds)": 118.0,
+          "alignment_integral(minutes:seconds)": "1:58"
+        },
+        {
+          "segment": 5,
+          "pre_clap": 6.0,
+          "clap_event": 7.0,
+          "post_clap": 8.0,
+          "alignment_integral(seconds)": 1621.0,
+          "alignment_integral(minutes:seconds)": "27:1"
+        },
+        {
+          "segment": 6,
+          "pre_clap": 5.99,
+          "clap_event": 6.325,
+          "post_clap": 6.7,
+          "alignment_integral(seconds)": 54.01,
+          "alignment_integral(minutes:seconds)": "0:54"
+        },
+        {
+          "segment": 7,
+          "pre_clap": 3.0,
+          "clap_event": 3.275,
+          "post_clap": 3.575,
+          "alignment_integral(seconds)": 226.0,
+          "alignment_integral(minutes:seconds)": "3:46"
+        }
+      ]
+    },
+    {
+      "name": "Lindsay2",
+      "segments": [
+        {
+          "segment": 0,
+          "pre_clap": 7.225,
+          "clap_event": 7.475,
+          "post_clap": 7.7,
+          "alignment_integral(seconds)": 3059.775,
+          "alignment_integral(minutes:seconds)": "50:59"
+        },
+        {
+          "segment": 1,
+          "pre_clap": 12.6,
+          "clap_event": 12.875,
+          "post_clap": 13.3,
+          "alignment_integral(seconds)": 1090.4,
+          "alignment_integral(minutes:seconds)": "18:10"
+        },
+        {
+          "segment": 2,
+          "pre_clap": 14.975,
+          "clap_event": 15.125,
+          "post_clap": 15.525,
+          "alignment_integral(seconds)": 318.025,
+          "alignment_integral(minutes:seconds)": "5:18"
+        },
+        {
+          "segment": 3,
+          "pre_clap": 4.55,
+          "clap_event": 4.825,
+          "post_clap": 5.125,
+          "alignment_integral(seconds)": 595.45,
+          "alignment_integral(minutes:seconds)": "9:55"
+        }
+      ]
+    },
+    {
+      "name": "meg",
+      "segments": [
+        {
+          "segment": 0,
+          "pre_clap": 3.525,
+          "clap_event": 4.3,
+          "post_clap": 4.95,
+          "alignment_integral(seconds)": 229.475,
+          "alignment_integral(minutes:seconds)": "3:49"
+        },
+        {
+          "segment": 1,
+          "pre_clap": 4.525,
+          "clap_event": 4.7,
+          "post_clap": 5.25,
+          "alignment_integral(seconds)": 1789.475,
+          "alignment_integral(minutes:seconds)": "29:49"
+        },
+        {
+          "segment": 2,
+          "pre_clap": 3.85,
+          "clap_event": 4.2,
+          "post_clap": 4.775,
+          "alignment_integral(seconds)": 1504.15,
+          "alignment_integral(minutes:seconds)": "25:4"
+        }
+      ]
+    },
+    {
+      "name": "susan",
+      "segments": [
+        {
+          "segment": 1,
+          "pre_clap": 3.675,
+          "clap_event": 3.875,
+          "post_clap": 4.2,
+          "alignment_integral(seconds)": 598.325,
+          "alignment_integral(minutes:seconds)": "9:58"
+        },
+        {
+          "segment": 3,
+          "pre_clap": 4.375,
+          "clap_event": 4.775,
+          "post_clap": 5.15,
+          "alignment_integral(seconds)": 2631.625,
+          "alignment_integral(minutes:seconds)": "43:51"
+        }
+      ]
+    },
+    {
+      "name": "tim",
+      "segments": [
+        {
+          "segment": 0,
+          "pre_clap": 2.725,
+          "clap_event": 3.2,
+          "post_clap": 3.65,
+          "alignment_integral(seconds)": 2020.275,
+          "alignment_integral(minutes:seconds)": "33:40"
+        },
+        {
+          "segment": 1,
+          "pre_clap": 5.725,
+          "clap_event": 6.95,
+          "post_clap": 7.25,
+          "alignment_integral(seconds)": 311.275,
+          "alignment_integral(minutes:seconds)": "5:11"
+        }
+      ]
+    },
+    {
+      "name": "tyler",
+      "segments": [
+        {
+          "segment": 0,
+          "pre_clap": 4.5,
+          "clap_event": 4.675,
+          "post_clap": 5.35,
+          "alignment_integral(seconds)": 152.5,
+          "alignment_integral(minutes:seconds)": "2:32"
+        },
+        {
+          "segment": 1,
+          "pre_clap": 3.675,
+          "clap_event": 4.2,
+          "post_clap": 4.9,
+          "alignment_integral(seconds)": 939.325,
+          "alignment_integral(minutes:seconds)": "15:39"
+        },
+        {
+          "segment": 2,
+          "pre_clap": 9.85,
+          "clap_event": 10.075,
+          "post_clap": 10.575,
+          "alignment_integral(seconds)": 189.15,
+          "alignment_integral(minutes:seconds)": "3:9"
+        },
+        {
+          "segment": 3,
+          "pre_clap": 9.35,
+          "clap_event": 9.525,
+          "post_clap": 10.0,
+          "alignment_integral(seconds)": 445.65,
+          "alignment_integral(minutes:seconds)": "7:25"
+        }
+      ]
+    }
+  ]
+}

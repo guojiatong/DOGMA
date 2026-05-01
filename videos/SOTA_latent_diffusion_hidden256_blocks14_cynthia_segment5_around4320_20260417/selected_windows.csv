@@ -1,0 +1,6 @@
+rank,participant,segment_id,pose_path,feature_path,start_frame_20hz,valid_frames,packet_start_20hz,packet_end_20hz
+1,Cynthia-WolfGang,5,/Users/jiatongguo/Desktop/DOGMA/Data/IMU_Only_20Hz_v1/pseudo_pose_20hz/Cynthia-WolfGang/segment_5.npz,/Users/jiatongguo/Desktop/DOGMA/Data/IMU_Only_20Hz_v1/features_20hz/Cynthia-WolfGang/segment_5.npz,4080,40,0,0
+2,Cynthia-WolfGang,5,/Users/jiatongguo/Desktop/DOGMA/Data/IMU_Only_20Hz_v1/pseudo_pose_20hz/Cynthia-WolfGang/segment_5.npz,/Users/jiatongguo/Desktop/DOGMA/Data/IMU_Only_20Hz_v1/features_20hz/Cynthia-WolfGang/segment_5.npz,4200,40,0,0
+3,Cynthia-WolfGang,5,/Users/jiatongguo/Desktop/DOGMA/Data/IMU_Only_20Hz_v1/pseudo_pose_20hz/Cynthia-WolfGang/segment_5.npz,/Users/jiatongguo/Desktop/DOGMA/Data/IMU_Only_20Hz_v1/features_20hz/Cynthia-WolfGang/segment_5.npz,4320,40,0,0
+4,Cynthia-WolfGang,5,/Users/jiatongguo/Desktop/DOGMA/Data/IMU_Only_20Hz_v1/pseudo_pose_20hz/Cynthia-WolfGang/segment_5.npz,/Users/jiatongguo/Desktop/DOGMA/Data/IMU_Only_20Hz_v1/features_20hz/Cynthia-WolfGang/segment_5.npz,4440,40,0,0
+5,Cynthia-WolfGang,5,/Users/jiatongguo/Desktop/DOGMA/Data/IMU_Only_20Hz_v1/pseudo_pose_20hz/Cynthia-WolfGang/segment_5.npz,/Users/jiatongguo/Desktop/DOGMA/Data/IMU_Only_20Hz_v1/features_20hz/Cynthia-WolfGang/segment_5.npz,4560,40,0,0

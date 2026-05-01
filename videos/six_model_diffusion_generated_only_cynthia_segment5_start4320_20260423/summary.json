@@ -1,0 +1,75 @@
+{
+  "output_dir": "/Users/jiatongguo/Desktop/DOGMA/outputs/imu_only_v1/videos/six_model_diffusion_generated_only_cynthia_segment5_start4320_20260423",
+  "video_path": "/Users/jiatongguo/Desktop/DOGMA/outputs/imu_only_v1/videos/six_model_diffusion_generated_only_cynthia_segment5_start4320_20260423/six_model_generated_future_2s_grid_2x3.mp4",
+  "condition": {
+    "participant": "Cynthia-WolfGang",
+    "segment_id": "5",
+    "start_frame_20hz": 4320,
+    "context_frames": 120,
+    "prediction_frames": 40,
+    "fps": 20,
+    "context_seconds": 6.0,
+    "generated_seconds": 2.0,
+    "pose_path": "/Users/jiatongguo/Desktop/DOGMA/Data/IMU_Only_20Hz_v1/pseudo_pose_20hz/Cynthia-WolfGang/segment_5.npz",
+    "feature_path": "/Users/jiatongguo/Desktop/DOGMA/Data/IMU_Only_20Hz_v1/features_20hz/Cynthia-WolfGang/segment_5.npz"
+  },
+  "sampling": {
+    "sampling_seed": 23,
+    "sample_index": 0,
+    "device_used": "mps",
+    "pose_latent_diffusion_position_smoothing_kernel": "none",
+    "pose_dit_position_smoothing_kernel": "tri5",
+    "raw_imu_bridge": {
+      "neutral_pose_mode": "first-frame",
+      "reference_quat_alignment": false,
+      "pose_vae_checkpoint_override": "/Users/jiatongguo/Desktop/DOGMA/outputs/imu_only_v1/temporal_vae/gpu_full_train_8s160f_100e_seed0_guarded_lr5e4_v2/best_by_mpjpe.pt",
+      "raw_imu_vae_checkpoint_override": "/Users/jiatongguo/Desktop/DOGMA/outputs/imu_only_v1/raw_imu_temporal_vae/gpu_full_train_8s160f_100e_seed0_lr5e4/best.pt",
+      "future_heading_anchor": "future_start via target context"
+    }
+  },
+  "layout": "2 rows x 3 columns, generated future only, no ground truth, no overlay",
+  "models": [
+    {
+      "key": "pose_latent_diffusion",
+      "label": "Pose Latent-Diff\nlatent-space",
+      "color": "#2f777a",
+      "checkpoint": "/Users/jiatongguo/Desktop/DOGMA/outputs/imu_only_v1/latent_diffusion/latent_diffusion_fulltrain_autoresearch_8h_6s2s_deeperwider_20260416_140116/hidden_256_blocks_12/best.pt",
+      "payload_path": "/Users/jiatongguo/Desktop/DOGMA/outputs/imu_only_v1/videos/six_model_diffusion_generated_only_cynthia_segment5_start4320_20260423/model_payloads/pose_latent_diffusion/generated_future_2s.npz"
+    },
+    {
+      "key": "raw_imu_latent_diffusion",
+      "label": "Raw-IMU Latent-Diff\nlatent-space",
+      "color": "#a9602c",
+      "checkpoint": "/Users/jiatongguo/Desktop/DOGMA/outputs/imu_only_v1/raw_imu_latent_diffusion/gpu_full_train_6s2s_allw_100e_seed0_vae100e_hidden256_blocks12/best.pt",
+      "payload_path": "/Users/jiatongguo/Desktop/DOGMA/outputs/imu_only_v1/videos/six_model_diffusion_generated_only_cynthia_segment5_start4320_20260423/model_payloads/raw_imu_latent_diffusion/generated_future_2s.npz"
+    },
+    {
+      "key": "pose_dit_data",
+      "label": "Pose DiT\ndata-space",
+      "color": "#3b72a8",
+      "checkpoint": "/Users/jiatongguo/Desktop/DOGMA/DiT/logs_dir/diff_step_100/dit/best.pt",
+      "payload_path": "/Users/jiatongguo/Desktop/DOGMA/outputs/imu_only_v1/videos/six_model_diffusion_generated_only_cynthia_segment5_start4320_20260423/model_payloads/pose_dit_data/generated_future_2s.npz"
+    },
+    {
+      "key": "pose_dit_latent",
+      "label": "Pose DiT\nlatent-space",
+      "color": "#5da06d",
+      "checkpoint": "/Users/jiatongguo/Desktop/DOGMA/DiT/logs_dir/diff_step_100/latent_dit/best.pt",
+      "payload_path": "/Users/jiatongguo/Desktop/DOGMA/outputs/imu_only_v1/videos/six_model_diffusion_generated_only_cynthia_segment5_start4320_20260423/model_payloads/pose_dit_latent/generated_future_2s.npz"
+    },
+    {
+      "key": "raw_imu_dit_data",
+      "label": "Raw-IMU DiT\ndata-space",
+      "color": "#d57a27",
+      "checkpoint": "/Users/jiatongguo/Desktop/DOGMA/DiT/raw_imu/logs_dir/diff_step_100/raw_imu_dit/best.pt",
+      "payload_path": "/Users/jiatongguo/Desktop/DOGMA/outputs/imu_only_v1/videos/six_model_diffusion_generated_only_cynthia_segment5_start4320_20260423/model_payloads/raw_imu_dit_data/generated_future_2s.npz"
+    },
+    {
+      "key": "raw_imu_dit_latent",
+      "label": "Raw-IMU DiT\nlatent-space",
+      "color": "#9b5caf",
+      "checkpoint": "/Users/jiatongguo/Desktop/DOGMA/DiT/raw_imu/logs_dir/diff_step_100/raw_imu_latent_dit/best.pt",
+      "payload_path": "/Users/jiatongguo/Desktop/DOGMA/outputs/imu_only_v1/videos/six_model_diffusion_generated_only_cynthia_segment5_start4320_20260423/model_payloads/raw_imu_dit_latent/generated_future_2s.npz"
+    }
+  ]
+}
